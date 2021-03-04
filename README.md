@@ -1,3 +1,3 @@
 # Machine-Learning
-  This is a repositry for a machine learning problem examples.
+  This is a repositry for machine learning problems examples.
   
